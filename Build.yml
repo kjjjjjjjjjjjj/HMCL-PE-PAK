@@ -1,0 +1,3 @@
+name: build yml
+job: build Debug APK release 
+build: debug build apk
